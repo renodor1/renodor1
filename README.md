@@ -1,0 +1,16 @@
+- 👋 Hi, I’m Reno Garcia.
+- 👀 I’m interested in computer programming languages...
+- 🌱 I’m currently learning software programming, in the logic part of the programming...
+- 💞️ I’m looking to collaborate on java Script, css ... I am a trilangual person, English, Spanish and French.
+- My first project is about encrypting and decrypting text. You can write any text and the program will encrypt the
+- text and also you are able to decrypt the text in order to understand it. There is alert telling you the result of
+- the encrypting text. The name of the project is "Encriptador de texto".
+- 📫 How to reach me ...
+- linkedin: linkedin.com/in/reno-garcia-pelegrino-7754b5a3
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+renodor1/renodor1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
