@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reno Garcia.
 - 👀 I’m interested in computer programming languages...
 - 🌱 I’m currently learning software programming, in the logic part of the programming...
-- 💞️ I’m looking to collaborate on java Script, css ... I am a trilangual person, English, Spanish and French.
+- 💞️ I’m looking to collaborate on java Script, css,html ... I am a trilangual person, English, Spanish and French.
 - My first project is about encrypting and decrypting text. You can write any text and the program will encrypt the
 - text and also you are able to decrypt the text in order to understand it. There is alert telling you the result of
 - the encrypting text. The name of the project is "Encriptador de texto".
